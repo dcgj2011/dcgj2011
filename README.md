@@ -9,7 +9,7 @@
 - 📚 **Current Goal**: Completing the **9-year compulsory education** curriculum.
 - 🎯 **Focus**: Mastering core subjects and exploring the digital world.
 - 🌱 **Status**: A beginner who is curious about how technology works.
-- 💌**Email**: dcgj2011@outlook.com.
+- 💌 **Email**: dcgj2011@outlook.com.
 
 ---
 
