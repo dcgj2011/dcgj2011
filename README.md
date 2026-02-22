@@ -1,4 +1,4 @@
-# Hi, I'm dcgj2011! 👋
+# Hi, I'm HY! 👋
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=150&section=header&text=Learning%20&%20Growing&fontSize=40" />
