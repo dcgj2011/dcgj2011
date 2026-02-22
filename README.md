@@ -1,9 +1,5 @@
 # Hi, I'm dcgj2011! 👋
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=150&section=header&text=Learning%20&%20Growing&fontSize=40" />
-</p>
-
 ### 📍 About Me
 - 🏫 **Schooling**: Student from **Dalian, China** 🌊
 - 📚 **Current Goal**: Completing the **9-year compulsory education** curriculum.
