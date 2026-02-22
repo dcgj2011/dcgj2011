@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm dcgj2011! 👋
 
-<!--
-**dcgj2011/dcgj2011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=150&section=header&text=Learning%20&%20Growing&fontSize=40" />
+</p>
 
-Here are some ideas to get you started:
+### 📍 About Me
+- 🏫 **Schooling**: Student from **Dalian, China** 🌊
+- 📚 **Current Goal**: Completing the **9-year compulsory education** curriculum.
+- 🎯 **Focus**: Mastering core subjects and exploring the digital world.
+- 🌱 **Status**: A beginner who is curious about how technology works.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📖 What I'm Studying
+- 📝 **Subjects**: Chinese, Mathematics, English, Physics, etc.
+- 🧠 **Skills**: Basic Computer Operations, Digital Literacy.
+- 📂 **GitHub Use**: Using this space to collect useful learning resources and tools.
+
+---
+
+### 🌟 My Collections
+I use GitHub to "Star" (bookmark) helpful repositories. 
+Check out what I've found so far:
+👉 **[View My Starred Projects](https://github.com/dcgj2011?tab=stars)**
+
+---
+
+### 📊 My Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dcgj2011&show_icons=true&theme=buefy&hide_border=true" alt="dcgj2011's Stats" />
+</p>
+
+---
+
+### 🚩 Visitor Count
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dcgj2011&label=Visitors&color=blue&style=flat-square" />
+</p>
+
+---
+<p align="center">
+  <i>"Knowledge is power." 📖</i>
+</p>
